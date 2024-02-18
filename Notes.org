@@ -1,0 +1,38 @@
+#+Title: Java Spring Boot workshop
+* Intro to full stack
++ micro services//layered arch
++ rest api
+* Dev Environment
+* Backend Spring Boot
++ why spring boot
+  + auto config
+  + standalone
+  + spring boot starters
+  + spring initializer
+  + actuators
++ framework
+  + dependency injection
+  + bean config
+  + autowiring
+  + spring mvc
+  + database intgretion
+* front End Angular
++ front end
+  + components and modules
+  + templates and data binding
+  + directives
+  + services and dependency injection
+  + routing
++ forms
+  + forms and user input
+  + http and api int
+  + state management
+
+* Angular-cli
++ ng new <<ProjectName>>
++ ng serve
++ npm install bootstrap
++ app.component.html--index.html
++ ng g class <<name>>
++ ng g service <<name>>
++ ng g c <<name>>
